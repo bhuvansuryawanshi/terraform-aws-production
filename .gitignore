@@ -5,3 +5,4 @@
 *.tfstate.backup
 .terraform.lock.hcl
 *.tfvars
+*.ec2-key
